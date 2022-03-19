@@ -1,2 +1,2 @@
 # Pivot
-For Desktop and mobile views, Check out: https://github.com/pashaev029/Pivot.git
+For Desktop and mobile views, Check out: https://pashaev029.github.io/Pivot/#
